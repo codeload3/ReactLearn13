@@ -1,2 +1,2 @@
 # ReactLearn13
-Created with CodeSandbox
+Learning React props
